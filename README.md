@@ -1,2 +1,2 @@
 # Pepino---Arturo
-Bot Statsfor Discord GEN AI @MIT
+Bot Stats for Discord GEN AI @MIT
